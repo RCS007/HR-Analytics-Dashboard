@@ -6,4 +6,4 @@ The objective of this project was to analyse employee data to identify patterns 
 
 ## Worked Tools/Technologies: 
 1) Excel
-2) 2)PowerBI
+2) PowerBI
